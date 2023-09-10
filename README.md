@@ -55,12 +55,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Avishek8136/Nand2tetris-Coursera-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avishek8136&repo=Nand2tetris-Coursera-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/Avishek8136/22AIE114_Project_Group_A12" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avishek8136&repo=22AIE114_Project_Group_A12&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br/>
-<a href="https://github.com/Avishek8136/Amrita-Project-Management-System-AMPS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avishek8136&repo=Amrita-Project-Management-System-AMPS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 # Github Status
 
 <a href="http://www.github.com/Avishek8136"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishek8136&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
