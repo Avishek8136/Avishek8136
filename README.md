@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/Avishek8136/Avishek8136/blob/main/Avishek%20Rauniyar.jpg">
-    <img src="https://github.com/Avishek8136/Avishek8136/raw/main/Avishek%20Rauniyar.jpg" alt="Avishek Rauniyar" width="200" height="200" style="border-radius: 50%;">
+    <img src="https://github.com/Avishek8136/Avishek8136/raw/main/Avishek%20Rauniyar.jpg" alt="Avishek Rauniyar" width="50" height="50" style="border-radius: 50%;">
   </a>
 </p>
 
