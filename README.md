@@ -7,10 +7,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/Avishek8136/Avishek8136/blob/main/Avishek%20Rauniyar.jpg">
-    <img src="https://github.com/Avishek8136/Avishek8136/raw/main/Avishek%20Rauniyar.jpg" alt="Avishek Rauniyar" width="200" height="200" style="border-radius: 50%; object-fit: cover;">
+    <img src="https://github.com/Avishek8136/Avishek8136/raw/main/Avishek%20Rauniyar.jpg" alt="Avishek Rauniyar" width="200" height="200" style="border-radius: 50%; clip-path: circle(50%);">
   </a>
 </p>
-
 
 <h3 align="center">A passionate and enthusiastic frontend developer from Nepal</h3>
 
