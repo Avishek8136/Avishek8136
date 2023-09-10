@@ -57,3 +57,12 @@ You can click the Preview link to take a look at your changes.
 <a href="http://www.github.com/Avishek8136"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishek8136&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avishek8136&show_icons=true&locale=en&layout=compact" alt="avishek8136" /></p>
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Avishek8136&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
