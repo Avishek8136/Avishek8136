@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 
 <div width="100%" align="center"><a href="https://github.com/Avishek8136/Nand2tetris-Coursera-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avishek8136&repo=Nand2tetris-Coursera-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/Avishek8136/22AIE114_Project_Group_A12" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avishek8136&repo=22AIE114_Project_Group_A12&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br/>
-<a href="https://github.com/Avishek8136/Amrita-Project-Management-System-AMPS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avishek8136&repo=Amrita-Project-Management-System-AMPS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<a href="https://github.com/Avishek8136/Amrita-Project-Management-System-AMPS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avishek8136&repo=Amrita-Project-Management-System-AMPS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # Github Status
 
