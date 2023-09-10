@@ -5,8 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi ! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated image" height="30" width="30">, I'm Avishek Rauniyar</h1>
 
-<center><img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/91328951?v=4" width="150" height="150"></center>
-
 <h3 align="center">A passionate and enthusiastic frontend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishek8136&label=Profile%20views&color=0e75b6&style=flat" alt="avishek8136" /> </p>
