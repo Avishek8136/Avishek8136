@@ -4,7 +4,7 @@ Avishek8136/Avishek8136 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi ! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="animated image" height="30" width="30">, I'm Avishek Rauniyar</h1>
-<img src="[your-im](https://avatars.githubusercontent.com/u/91328951?s=400&u=07c7792ded026c9feef5c6f11c2c0a1b88923ced&v=4)" alt="Avishek Rauniyar" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;">
+<img src="[your-im](https://avatars.githubusercontent.com/u/91328951?s=400&u=07c7792ded026c9feef5c6f11c2c0a1b88923ced&v=4)" alt="Avishek Rauniyar" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto; align="center">
 <h3 align="center">A passionate and enthusiastic frontend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishek8136&label=Profile%20views&color=0e75b6&style=flat" alt="avishek8136" /> </p>
