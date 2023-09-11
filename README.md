@@ -9,7 +9,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avishek8136&label=Profile%20views&color=0e75b6&style=flat" alt="avishek8136" /> </p>
 
-- 🌱 I’m currently learning **AI/ML , Java, JavaScript and DSA**
+- 🌱 I’m currently learning **AI/ML and DSA**
+
+- 🌱 I'm currently working on **Nand2Tetris and S2AIE114_Project_Group_A12**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avishek8136](https://github.com/Avishek8136)
 
