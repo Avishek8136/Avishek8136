@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **AI/ML and DSA**
 
-- 🌱 I'm currently working on **Nand2Tetris and S2AIE114_Project_Group_A12**
+- 🌿 I'm currently working on **Nand2Tetris and S2AIE114_Project_Group_A12**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avishek8136](https://github.com/Avishek8136)
 
