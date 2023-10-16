@@ -65,6 +65,7 @@ You can click the Preview link to take a look at your changes.
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Avishek8136&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+[![An image of @avishek8136's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avishek8136)](https://holopin.io/@avishek8136)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
