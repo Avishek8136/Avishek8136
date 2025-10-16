@@ -11599,3 +11599,87 @@ pre .code {
   display: block;
   margin-top: 10px;
 }
+
+/* Project Cards Styling */
+.project-card {
+  height: 100%;
+  transition: all 0.3s ease;
+  border: none;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(248, 92, 112, 0.2);
+}
+
+.project-card .card-body {
+  padding: 1.5rem;
+}
+
+.project-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-card .card-title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #343a40;
+  min-height: 60px;
+}
+
+.project-card .card-text {
+  color: #6c757d;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  min-height: 80px;
+}
+
+.project-tech {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.project-tech .badge {
+  padding: 0.4rem 0.8rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border-radius: 12px;
+  background-color: #f8f9fa;
+  color: #495057;
+}
+
+.project-date {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e9ecef;
+}
+
+.project-card .ti-github {
+  font-size: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.project-card .ti-github:hover {
+  color: #F85C70 !important;
+}
+
+.project-card .ti-folder {
+  color: #F85C70;
+}
+
+@media (max-width: 767px) {
+  .project-card .card-title {
+    min-height: auto;
+  }
+  
+  .project-card .card-text {
+    min-height: auto;
+  }
+}
