@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Blog by Avishek Rauniyar - AI/ML Engineer, sharing insights on artificial intelligence, machine learning, cloud computing, and software development">
+    <meta name="author" content="Avishek Rauniyar">
+    <meta name="keywords" content="AI, Machine Learning, Cloud Computing, Azure, Python, Blog, Technology">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://avishekrauniyar.com.np/blogs.html">
+    <meta property="og:title" content="Blog - Avishek Rauniyar">
+    <meta property="og:description" content="Insights on AI/ML, Cloud Computing, and Software Development">
+    <meta property="og:image" content="https://avishekrauniyar.com.np/assets/imgs/avatar.webp">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://avishekrauniyar.com.np/blogs.html">
+    <meta property="twitter:title" content="Blog - Avishek Rauniyar">
+    <meta property="twitter:description" content="Insights on AI/ML, Cloud Computing, and Software Development">
+    <meta property="twitter:image" content="https://avishekrauniyar.com.np/assets/imgs/avatar.webp">
+    
+    <title>Blog - Avishek Rauniyar | AI/ML Engineer</title>
+    <link rel="canonical" href="https://avishekrauniyar.com.np/blogs.html">
+    <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
+    <link rel="stylesheet" href="assets/css/avishek.css">
+    <style>
+        .blog-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 100px 0 80px;
+            color: white;
+            text-align: center;
+        }
+        .blog-header h1 {
+            font-size: 48px;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+        .blog-header p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+        .blog-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 60px 20px;
+        }
+        .blog-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+        .blog-card {
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+        }
+        .blog-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+        }
+        .blog-card-image {
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 48px;
+        }
+        .blog-card-content {
+            padding: 25px;
+        }
+        .blog-card-title {
+            font-size: 22px;
+            font-weight: 700;
+            color: #333;
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+        .blog-card-excerpt {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+        .blog-card-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: #999;
+            font-size: 14px;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+        }
+        .blog-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 15px;
+        }
+        .blog-tag {
+            background: #f0f0f0;
+            padding: 5px 12px;
+            border-radius: 15px;
+            font-size: 12px;
+            color: #666;
+        }
+        .no-blogs {
+            text-align: center;
+            padding: 60px 20px;
+        }
+        .no-blogs i {
+            font-size: 80px;
+            color: #ddd;
+            margin-bottom: 20px;
+        }
+        .no-blogs h3 {
+            color: #666;
+            margin-bottom: 10px;
+        }
+        .no-blogs p {
+            color: #999;
+        }
+        .back-home {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 1000;
+        }
+        .back-home a {
+            display: inline-block;
+            padding: 10px 20px;
+            background: white;
+            color: #667eea;
+            text-decoration: none;
+            border-radius: 25px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+        .back-home a:hover {
+            background: #667eea;
+            color: white;
+            transform: translateY(-2px);
+        }
+        .search-box {
+            max-width: 600px;
+            margin: 0 auto 40px;
+        }
+        .search-box input {
+            width: 100%;
+            padding: 15px 20px;
+            border: 2px solid #e0e0e0;
+            border-radius: 30px;
+            font-size: 16px;
+            transition: all 0.3s;
+        }
+        .search-box input:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="back-home">
+        <a href="index.html"><i class="ti-arrow-left"></i> Back to Home</a>
+    </div>
+
+    <div class="blog-header">
+        <h1><i class="ti-write"></i> My Blog</h1>
+        <p>Thoughts, insights, and experiences in AI/ML and Technology</p>
+    </div>
+
+    <div class="blog-container">
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Search blogs..." onkeyup="filterBlogs()">
+        </div>
+        
+        <div id="blogGrid" class="blog-grid"></div>
+        
+        <div id="noBlogs" class="no-blogs" style="display: none;">
+            <i class="ti-write"></i>
+            <h3>No Blogs Yet</h3>
+            <p>Stay tuned for upcoming posts on AI/ML, Cloud Computing, and Software Development.</p>
+        </div>
+    </div>
+
+    <script>
+        let allBlogs = [];
+
+        function loadBlogs() {
+            const blogs = JSON.parse(localStorage.getItem('blogs') || '[]');
+            allBlogs = blogs.sort((a, b) => b.timestamp - a.timestamp);
+            displayBlogs(allBlogs);
+        }
+
+        function displayBlogs(blogs) {
+            const grid = document.getElementById('blogGrid');
+            const noBlogs = document.getElementById('noBlogs');
+
+            if (blogs.length === 0) {
+                grid.style.display = 'none';
+                noBlogs.style.display = 'block';
+                return;
+            }
+
+            grid.style.display = 'grid';
+            noBlogs.style.display = 'none';
+
+            grid.innerHTML = blogs.map(blog => {
+                const date = new Date(blog.date);
+                const excerpt = blog.content.substring(0, 150) + '...';
+                const tags = blog.tags ? blog.tags.split(',').map(t => t.trim()) : [];
+                
+                return `
+                    <div class="blog-card" onclick="window.location.href='blog-post.html?slug=${blog.slug}'">
+                        <div class="blog-card-image">
+                            <i class="ti-pencil-alt"></i>
+                        </div>
+                        <div class="blog-card-content">
+                            <h2 class="blog-card-title">${blog.title}</h2>
+                            <p class="blog-card-excerpt">${excerpt}</p>
+                            ${tags.length > 0 ? `
+                                <div class="blog-tags">
+                                    ${tags.map(tag => `<span class="blog-tag">${tag}</span>`).join('')}
+                                </div>
+                            ` : ''}
+                            <div class="blog-card-meta">
+                                <span><i class="ti-calendar"></i> ${date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
+                                <span><i class="ti-arrow-right"></i></span>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function filterBlogs() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const filtered = allBlogs.filter(blog => 
+                blog.title.toLowerCase().includes(searchTerm) ||
+                blog.content.toLowerCase().includes(searchTerm) ||
+                (blog.tags && blog.tags.toLowerCase().includes(searchTerm))
+            );
+            displayBlogs(filtered);
+        }
+
+        // Load blogs on page load
+        loadBlogs();
+    </script>
+</body>
+</html>
