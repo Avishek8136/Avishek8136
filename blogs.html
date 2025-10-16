@@ -25,6 +25,7 @@
     <link rel="canonical" href="https://avishekrauniyar.com.np/blogs.html">
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <link rel="stylesheet" href="assets/css/avishek.css">
+    <link rel="stylesheet" href="assets/css/dark-mode.css">
     <style>
         .blog-header {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -222,8 +223,8 @@
                 
                 return `
                     <div class="blog-card" onclick="window.location.href='blog-post.html?slug=${blog.slug}'">
-                        <div class="blog-card-image">
-                            <i class="ti-pencil-alt"></i>
+                        <div class="blog-card-image" ${blog.image ? `style="background-image: url('${blog.image}'); background-size: cover; background-position: center;"` : ''}>
+                            ${!blog.image ? '<i class="ti-pencil-alt"></i>' : ''}
                         </div>
                         <div class="blog-card-content">
                             <h2 class="blog-card-title">${blog.title}</h2>
@@ -256,5 +257,8 @@
         // Load blogs on page load
         loadBlogs();
     </script>
+    
+    <!-- Theme Manager -->
+    <script src="assets/js/theme-manager.js"></script>
 </body>
 </html>

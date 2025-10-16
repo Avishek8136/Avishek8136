@@ -6,6 +6,7 @@
     <title>Admin Login - Avishek Rauniyar</title>
     <link rel="stylesheet" href="../assets/vendors/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="../assets/vendors/themify-icons/css/themify-icons.css">
+    <link rel="stylesheet" href="../assets/css/dark-mode.css">
     <style>
         body {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -120,9 +121,12 @@
             const password = document.getElementById('password').value;
             const errorMessage = document.getElementById('errorMessage');
             
-            // Simple authentication (In production, use proper backend authentication)
-            // Hash for 'admin' / 'admin123' - Change this in production!
-            if (username === 'admin' && password === 'admin123') {
+            // Get stored credentials (default: admin/admin123)
+            const storedUsername = localStorage.getItem('adminUsername') || 'admin';
+            const storedPassword = localStorage.getItem('adminPassword') || 'admin123';
+            
+            // Authenticate
+            if (username === storedUsername && password === storedPassword) {
                 // Set session
                 sessionStorage.setItem('adminAuth', 'true');
                 sessionStorage.setItem('adminUser', username);
@@ -137,5 +141,8 @@
             }
         });
     </script>
+    
+    <!-- Theme Manager -->
+    <script src="../assets/js/theme-manager.js"></script>
 </body>
 </html>
