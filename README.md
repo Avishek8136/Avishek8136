@@ -43,13 +43,6 @@ A professional portfolio website for AI/ML Engineer featuring an admin panel, bl
 2. Deploy to your web hosting service
 3. Access the website at `avishekrauniyar.com.np`
 
-### Admin Panel Access
-1. Navigate to `/admin/login.html`
-2. Default credentials:
-   - Username: `admin`
-   - Password: `admin123`
-   - **⚠️ IMPORTANT: Change these credentials in production!**
-
 ### Blog Subdomain Setup
 To enable blog subdomain (`blogs.avishekrauniyar.com.np`):
 
